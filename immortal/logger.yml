@@ -1,0 +1,6 @@
+cmd: go run /home/jesper/exosite/git/logging-bench/faller.go
+log:
+    file: /home/jesper/exosite/git/logging-bench/logs/im-logger.log
+    num: 7     # int
+    size: 100    # MegaBytes
+wait: 3 # wait 3 seconds before starting
